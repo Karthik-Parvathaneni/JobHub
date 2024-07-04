@@ -2,7 +2,7 @@
 
 This is basically a CRUD Job Listing project made using React.
 
-This project uses JSON-Server for a mock backend.
+## This project uses JSON-Server for a mock backend.
 
 ### Install Dependencies
 
@@ -31,10 +31,10 @@ npm run dev
 ```bash
 npm run build
 ```
-(Will try to deploy this project after modifying it to use an actual backend)
 
 ### Preview Production Build
 
 ```bash
 npm run preview
 ```
+(Will try to deploy this project after modifying it to use an actual backend)
