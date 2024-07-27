@@ -1,8 +1,11 @@
 # Job Listing Project
 
-This is basically a CRUD Job Listing project made using React.
+This is a CRUD Job Listing project made using React.
 
-## This project uses JSON-Server for a mock backend.
+ The project isn't complete yet . 
+* This project currently uses JSON Server as a mock backend, but the goal is to integrate an actual backend to enhance its functionality. 
+* Additionally, there are plans to expand the project to support various use cases, making it more versatile and robust.
+
 
 ### Install Dependencies
 
