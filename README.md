@@ -1,11 +1,15 @@
 # Job Listing Project
 
 This is a CRUD Job Listing project made using React.
-
- The project isn't complete yet . 
+ 
 * This project currently uses JSON Server as a mock backend, but the goal is to integrate an actual backend to enhance its functionality. 
-* Additionally, there are plans to expand the project to support various use cases, making it more versatile and robust.
+* There are plans to expand the project to support various use cases, making it more versatile and robust.
 
+* This project is deployed using GitHub Pages for demonstration purposes. However, certain features may not function as intended because it relies on a mock backend to simulate API requests.
+For full functionality, it should be integrated with a live backend service.
+
+
+## 🛠️ Setup Instructions
 
 ### Install Dependencies
 
@@ -40,4 +44,3 @@ npm run build
 ```bash
 npm run preview
 ```
-(Will try to deploy this project after modifying it to use an actual backend)
