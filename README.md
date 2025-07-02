@@ -8,6 +8,10 @@ This is a CRUD Job Listing project made using React.
 * This project is deployed using GitHub Pages for demonstration purposes. However, certain features may not function as intended because it relies on a mock backend to simulate API requests.
 For full functionality, it should be integrated with a live backend service.
 
+## Future Plans (TO DO)
+
+* Backend  : Java + Spring boot (Deployment in Render)
+* Database : PostgreSQL
 
 ## 🛠️ Setup Instructions
 
